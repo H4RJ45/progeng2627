@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hsingh/Documents/progeng2627/Autumn26/week3/loophello'
+relocations:     []
+...
